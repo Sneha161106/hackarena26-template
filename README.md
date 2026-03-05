@@ -5,15 +5,15 @@
 
 ## Team Details
 
-- **Team Name:**
-- **Members:**
-- **Domain:**
+- **Team Name:SmartNexus**
+- **Members:4**
+- **Domain:Productivity &Security**
 
 ---
 
 ## Project
 
-**Problem:** 
+**Problem:ThreatSense AI - DVR** 
 
 **Solution:** 
 
